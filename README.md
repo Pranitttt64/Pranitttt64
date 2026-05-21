@@ -3,82 +3,70 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=initializing+interface...;loading+neural+systems...;establishing+connection...;welcome+to+the+network." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=BOOTING+NEURAL+INTERFACE...;ESTABLISHING+CYBERLINK...;LOADING+INTELLIGENT+SYSTEMS...;ACCESS+GRANTED." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-online-00C2FF?style=for-the-badge&logo=ghost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/focus-ai%20engineering-111111?style=for-the-badge&logo=openai&logoColor=00C2FF"/>
-  <img src="https://img.shields.io/badge/location-cyberspace-1a1a1a?style=for-the-badge&logo=matrix&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00C2FF?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-111111?style=for-the-badge&logo=openai&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-1A1A1A?style=for-the-badge&logo=ghost&logoColor=00C2FF"/>
 </p>
 
 ---
 
-```console
-> SYSTEM STATUS    : ACTIVE
-> PROFILE MODE     : ENGINEER
-> VISUAL THEME     : CYBERPUNK
-> NEURAL STATE     : STABLE
-> CONNECTION       : SECURE
-```
+# PRANIT SAUNDANKAR
+
+### AI • MACHINE LEARNING • COMPUTER VISION • LLM SYSTEMS
 
 ```bash
 $ whoami
 
-AI/DS student focused on building:
-- intelligent systems
-- multimodal AI applications
-- cinematic AI experiences
-- deep learning pipelines
-- futuristic interactive products
+AI/DS student focused on building intelligent systems,
+immersive AI experiences, and futuristic interactive products.
 
-interests include:
-deep learning • computer vision • llms • rag systems
-agentic workflows • recommendation systems • ai infrastructure
-
-design philosophy:
-minimal • atmospheric • immersive • futuristic
+Current focus:
+- Deep Learning
+- Computer Vision
+- LLMs & RAG
+- QLoRA Fine-Tuning
+- Recommendation Systems
+- Agentic AI Systems
+- AI Infrastructure
 ```
 
 ---
 
-# neural activity
+## CURRENT EXPERIMENTS
 
-```txt
-┌─ CURRENT EXPERIMENTS ───────────────────────────────┐
-│                                                     │
-│  ◎ QLoRA Fine-Tuning Pipelines                      │
-│  ◎ LLM + RAG Architectures                          │
-│  ◎ Recommendation Systems                           │
-│  ◎ Vision-Language Systems                          │
-│  ◎ Computer Vision Interfaces                       │
-│  ◎ Interactive AI Products                          │
-│  ◎ Cinematic UI / AI Experiences                    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+- Multimodal AI Systems
+- QLoRA Fine-Tuning Pipelines
+- Vision-Language Applications
+- Recommendation Engines
+- RAG + Agent Architectures
+- Interactive AI Interfaces
+- Cinematic AI Experiences
 
 ---
 
-# featured systems
+# FEATURED PROJECTS
 
-## ◉ Mistral QLoRA Fine-Tuning
+## Mistral QLoRA Fine-Tuning
 
-> Fine-tuning vs prompt engineering on Mistral-7B with a full ablation study and statistical significance testing using QLoRA on a Kaggle T4 GPU.
+> Fine-tuning vs Prompt Engineering on Mistral-7B with a full ablation study and statistical significance testing using QLoRA on a Kaggle T4 GPU.
 
 <p>
   <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/PEFT-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Transformers-222222?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kaggle%20T4-00C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-00C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kaggle%20T4-111111?style=flat-square"/>
 </p>
 
 ---
 
-## ◉ CarbonScoreX
+## CarbonScoreX
 
-> AI-powered full-stack Carbon Credit Exchange focused on transparent trading, smart compliance scoring, and greenwashing detection.
+> AI-powered Carbon Credit Exchange platform focused on transparent trading, smart compliance scoring, and greenwashing detection.
 
 <p>
   <img src="https://img.shields.io/badge/React-00C2FF?style=flat-square"/>
@@ -89,9 +77,9 @@ minimal • atmospheric • immersive • futuristic
 
 ---
 
-## ◉ Neural Style Transfer CV App
+## Neural Style Transfer CV App
 
-> Neural Style Transfer web application built using PyTorch + Streamlit for transforming images into stylized artwork.
+> Neural Style Transfer web application built with PyTorch + Streamlit for transforming images into stylized artwork.
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-00C2FF?style=flat-square"/>
@@ -102,9 +90,9 @@ minimal • atmospheric • immersive • futuristic
 
 ---
 
-## ◉ Book Recommender AI System
+## Book Recommender AI System
 
-> Personalized recommendation engine powered by Keras Autoencoders with smart filtering and collaborative recommendation pipelines.
+> Personalized recommendation engine powered by Keras Autoencoders with collaborative filtering and intelligent recommendation pipelines.
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-00C2FF?style=flat-square"/>
@@ -115,15 +103,15 @@ minimal • atmospheric • immersive • futuristic
 
 ---
 
-# tech arsenal
+# TECH STACK
 
-## machine learning / ai
+### MACHINE LEARNING / AI
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Transformers-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PEFT-111111?style=for-the-badge"/>
@@ -131,94 +119,81 @@ minimal • atmospheric • immersive • futuristic
   <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge"/>
 </p>
 
----
+<br>
 
-## development / infrastructure
+### DEVELOPMENT / INFRASTRUCTURE
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,fastapi,mongodb,mysql" />
 </p>
 
----
+<br>
 
-## languages
+### LANGUAGES
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,js" />
 </p>
 
 ---
 
-# github interface
+# GITHUB ANALYTICS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=9CA3AF&icon_color=00C2FF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=9CA3AF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00C2FF&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranitttt64&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+  <img src="https://streak-stats.demolab.com?user=Pranitttt64&theme=github-dark-blue&hide_border=true&background=00000000&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
 </p>
 
 ---
 
-# active domains
+# ACTIVE DOMAINS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/COMPUTER%20VISION-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20SYSTEMS-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AGENTIC%20WORKFLOWS-00C2FF?style=for-the-badge"/>
+</p>
+
+---
+
+# CURRENTLY LEARNING
 
 ```txt
-▸ ARTIFICIAL INTELLIGENCE
-▸ DEEP LEARNING
-▸ COMPUTER VISION
-▸ LARGE LANGUAGE MODELS
-▸ RAG SYSTEMS
-▸ AGENTIC AI WORKFLOWS
-▸ RECOMMENDATION ENGINES
-▸ C++ / DSA
-▸ INTERACTIVE AI PRODUCTS
-▸ CINEMATIC UI SYSTEMS
+Advanced LLM Systems
+Scalable RAG Architectures
+QLoRA Optimization
+Multimodal AI Pipelines
+Agent Memory Systems
+Deep Learning Research Workflows
 ```
 
 ---
 
-# currently learning
-
-```txt
-[ neural roadmap ]
-
-> advanced llm systems
-> scalable rag architectures
-> multimodal ai pipelines
-> qlora optimization
-> agent memory systems
-> deep learning research workflows
-```
-
----
-
-# neural metrics
+# CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranitttt64&theme=algolia&no-frame=true&no-bg=true&margin-w=12" />
+  <img src="https://raw.githubusercontent.com/Pranitttt64/Pranitttt64/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# contribution graph
-
 <p align="center">
-  <img src="https://github.com/Pranitttt64/Pranitttt64/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Pranitttt64&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" />
 </p>
 
 ---
 
 ```txt
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  Building intelligent systems inside                │
-│  rain-soaked futuristic worlds.                     │
-│                                                     │
-│  Interface stable.                                  │
-│  End transmission.                                  │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+Building intelligent systems inside
+rain-soaked futuristic worlds.
+
+END OF TRANSMISSION.
 ```
