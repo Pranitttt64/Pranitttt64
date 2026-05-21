@@ -2,10 +2,6 @@
   <img src="assets/2825810.gif" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:003D52,100:00C2FF&height=220&section=header&text=PRANIT%20SAUNDANKAR&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20System%20Builder&descSize=16&descColor=00C2FF&descAlignY=62&animation=fadeIn" />
-</div>
-
 <br>
 
 <p align="center">
