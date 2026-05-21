@@ -38,7 +38,7 @@ class PranitSaundankar:
 
 ---
 
-<h1 align="center">⚡ SYSTEM STATUS</h1>
+<h1 align="center">SYSTEM STATUS</h1>
 
 ```yaml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -60,7 +60,7 @@ class PranitSaundankar:
 
 ---
 
-<h1 align="center">🚀 FEATURED PROJECTS</h1>
+<h1 align="center">FEATURED PROJECTS</h1>
 
 ---
 
@@ -129,7 +129,7 @@ class PranitSaundankar:
 
 ---
 
-<h1 align="center">🧠 TECH STACK</h1>
+<h1 align="center">TECH STACK</h1>
 
 <h3 align="center">MACHINE LEARNING / AI</h3>
 
@@ -175,7 +175,7 @@ class PranitSaundankar:
 
 ---
 
-<h1 align="center">📊 GITHUB ANALYTICS</h1>
+<h1 align="center">GITHUB ANALYTICS</h1>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&count_private=true&ring_color=00C2FF" />
@@ -192,7 +192,7 @@ class PranitSaundankar:
 
 ---
 
-<h1 align="center">🌐 ACTIVE DOMAINS</h1>
+<h1 align="center">ACTIVE DOMAINS</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0D1117?style=for-the-badge&logoColor=white"/>
@@ -223,7 +223,7 @@ class PranitSaundankar:
 
 ---
 
-<h1 align="center">🐍 CONTRIBUTION GRAPH</h1>
+<h1 align="center">CONTRIBUTION GRAPH</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranitttt64/Pranitttt64/output/github-contribution-grid-snake-dark.svg" />
@@ -231,7 +231,7 @@ class PranitSaundankar:
 
 ---
 
-<h1 align="center">🔗 NETWORKS</h1>
+<h1 align="center">NETWORKS</h1>
 
 <p align="center">
   <a href="https://github.com/Pranitttt64">
