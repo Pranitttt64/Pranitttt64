@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="assets/2825810.gif" width="100%" />
 </p>
@@ -43,7 +42,7 @@ AI/DS student focused on building:
 • QLoRA Fine-Tuning Workflows
 • Recommendation Engines
 • Interactive ML Experiences
-````
+```
 
 </p>
 
@@ -183,7 +182,6 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&ring_color=00C2FF&cache_seconds=1800" />
-
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=C9D1D9&cache_seconds=1800" />
 </p>
 
@@ -259,4 +257,3 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 <p align="center">
   <i>"Building intelligent systems inside rain-soaked futuristic worlds."</i>
 </p>
-```
