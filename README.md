@@ -19,7 +19,7 @@
 <h1 align="center">PRANIT SAUNDANKAR</h1>
 
 <p align="center">
-  <b>AI • MACHINE LEARNING • COMPUTER VISION • LLM SYSTEMS • AGENTIC AI</b>
+  <b>AI • ML • DL • COMPUTER VISION • LLMs • RAGs • AGENTIC AI</b>
 </p>
 
 <br>
