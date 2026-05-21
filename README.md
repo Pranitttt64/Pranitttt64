@@ -25,12 +25,6 @@
 <br>
 
 ```bash
-> initializing neural interface...
-> loading system architecture...
-> syncing with city infrastructure...
-
-$ whoami
-
 AI/DS student building intelligent systems,
 immersive AI applications,
 and futuristic ML-powered experiences.
@@ -73,7 +67,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 > Fine-tuning vs Prompt Engineering on Mistral-7B with full ablation studies and statistical significance testing using QLoRA on a Kaggle T4 GPU.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/PEFT-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Transformers-1F1F1F?style=flat-square"/>
@@ -87,7 +81,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 > AI-powered Carbon Credit Exchange platform focused on transparent trading, smart compliance scoring, and greenwashing detection.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-00C2FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI%20Analytics-1F1F1F?style=flat-square"/>
@@ -100,7 +94,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 > Neural Style Transfer web application built with PyTorch + Streamlit for transforming images into stylized artwork.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-00C2FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Streamlit-1F1F1F?style=flat-square"/>
@@ -113,7 +107,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 > Personalized recommendation engine powered by Keras Autoencoders with collaborative filtering and intelligent recommendation pipelines.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-00C2FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Keras-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Recommender%20Systems-1F1F1F?style=flat-square"/>
