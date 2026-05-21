@@ -209,11 +209,11 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pranit-saundankar-68532328b/)">
     <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.kaggle.com/">
+  <a href="[https://www.kaggle.com/](https://www.kaggle.com/pranitsaundankar)">
     <img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=00C2FF"/>
   </a>
 </p>
