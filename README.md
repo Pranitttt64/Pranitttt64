@@ -27,7 +27,7 @@ class PranitSaundankar:
     stack    = ["PyTorch", "HuggingFace Transformers", "LangChain", "FastAPI", "Streamlit"]
     building = ["Multimodal AI Systems", "Fine-Tuned LLMs", "Intelligent Recommendation Engines"]
     current  = "QLoRA + RAG + Agentic Pipelines"
-    motto    = "Ship. Iterate. Repeat."
+    motto    = "Just Mogggg"
 ```
 
 <br>
