@@ -120,11 +120,11 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ## MACHINE LEARNING / AI
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Transformers-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PEFT-111111?style=for-the-badge"/>
@@ -136,7 +136,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ## DEVELOPMENT / INFRASTRUCTURE
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,fastapi,mongodb,mysql,vscode&theme=dark" />
 </p>
 
@@ -144,7 +144,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ## LANGUAGES
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" />
 </p>
 
