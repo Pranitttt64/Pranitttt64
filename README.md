@@ -3,101 +3,153 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=initializing+system...;loading+neural+modules...;building+intelligent+systems...;welcome+to+the+interface." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=initializing+interface...;loading+neural+systems...;establishing+connection...;welcome+to+the+network." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-00C2FF?style=for-the-badge&logo=ghost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/focus-ai%20engineering-111111?style=for-the-badge&logo=openai&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/location-cyberspace-1a1a1a?style=for-the-badge&logo=matrix&logoColor=00C2FF"/>
 </p>
 
 ---
 
 ```console
-> STATUS        : ONLINE
-> LOCATION      : CYBERSPACE
-> PROFILE MODE  : ENGINEER
-> SYSTEM STATE  : ACTIVE
+> SYSTEM STATUS    : ACTIVE
+> PROFILE MODE     : ENGINEER
+> VISUAL THEME     : CYBERPUNK
+> NEURAL STATE     : STABLE
+> CONNECTION       : SECURE
 ```
 
 ```bash
 $ whoami
 
-AI/DS student and builder focused on creating
-immersive intelligent systems, cinematic interfaces,
-and futuristic AI-powered experiences.
+AI/DS student focused on building:
+- intelligent systems
+- multimodal AI applications
+- cinematic AI experiences
+- deep learning pipelines
+- futuristic interactive products
 
-Current interests:
-- Deep Learning
-- Computer Vision
-- LLMs & RAG
-- QLoRA Fine-Tuning
-- Agentic AI Systems
-- Recommendation Systems
-- AI Infrastructure
-- Interactive AI Products
+interests include:
+deep learning • computer vision • llms • rag systems
+agentic workflows • recommendation systems • ai infrastructure
 
-Design philosophy:
-minimal • atmospheric • intelligent • immersive
+design philosophy:
+minimal • atmospheric • immersive • futuristic
 ```
 
 ---
 
-## current experiments
+# neural activity
 
 ```txt
-> multimodal ai systems
-> qlora fine-tuning pipelines
-> rag + agent workflows
-> recommendation engines
-> vision-language systems
-> ai dungeon generation
-> intelligent ui experiences
-> cinematic ai interfaces
+┌─ CURRENT EXPERIMENTS ───────────────────────────────┐
+│                                                     │
+│  ◎ QLoRA Fine-Tuning Pipelines                      │
+│  ◎ LLM + RAG Architectures                          │
+│  ◎ Recommendation Systems                           │
+│  ◎ Vision-Language Systems                          │
+│  ◎ Computer Vision Interfaces                       │
+│  ◎ Interactive AI Products                          │
+│  ◎ Cinematic UI / AI Experiences                    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
 
 # featured systems
 
-### RetailEye
-> multimodal AI shopping assistant using computer vision, retrieval systems, and intelligent search pipelines.
+## ◉ Mistral QLoRA Fine-Tuning
 
-**Stack:**  
-`PyTorch` `Transformers` `FAISS` `OpenCV` `Streamlit`
+> Fine-tuning vs prompt engineering on Mistral-7B with a full ablation study and statistical significance testing using QLoRA on a Kaggle T4 GPU.
 
----
-
-### AI Dungeon Master
-> immersive AI-powered narrative engine with dynamic memory, world-state tracking, and procedural storytelling.
-
-**Stack:**  
-`GPT-2` `LangChain` `Python` `Streamlit`
-
----
-
-### Neural Recommendation Engine
-> personalized recommendation system powered by deep learning autoencoders and behavioral similarity learning.
-
-**Stack:**  
-`TensorFlow` `Keras` `Pandas` `Scikit-Learn`
-
----
-
-### QLoRA Fine-Tuning System
-> memory-efficient large language model fine-tuning pipeline using QLoRA, PEFT, and quantized training workflows.
-
-**Stack:**  
-`QLoRA` `PEFT` `Transformers` `BitsAndBytes` `PyTorch`
-
----
-
-## neural stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,docker,linux,git,vscode,fastapi,mongodb,mysql" />
-
+<p>
+  <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PEFT-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Transformers-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kaggle%20T4-00C2FF?style=flat-square"/>
 </p>
 
 ---
 
-## github interface
+## ◉ CarbonScoreX
+
+> AI-powered full-stack Carbon Credit Exchange focused on transparent trading, smart compliance scoring, and greenwashing detection.
+
+<p>
+  <img src="https://img.shields.io/badge/React-00C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Analytics-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FullStack-00C2FF?style=flat-square"/>
+</p>
+
+---
+
+## ◉ Neural Style Transfer CV App
+
+> Neural Style Transfer web application built using PyTorch + Streamlit for transforming images into stylized artwork.
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-00C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-00C2FF?style=flat-square"/>
+</p>
+
+---
+
+## ◉ Book Recommender AI System
+
+> Personalized recommendation engine powered by Keras Autoencoders with smart filtering and collaborative recommendation pipelines.
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-00C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Keras-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Recommender%20Systems-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-00C2FF?style=flat-square"/>
+</p>
+
+---
+
+# tech arsenal
+
+## machine learning / ai
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Transformers-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PEFT-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge"/>
+</p>
+
+---
+
+## development / infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,fastapi,mongodb,mysql" />
+</p>
+
+---
+
+## languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js" />
+</p>
+
+---
+
+# github interface
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=9CA3AF&icon_color=00C2FF" />
@@ -111,44 +163,47 @@ minimal • atmospheric • intelligent • immersive
 
 ---
 
-## active domains
+# active domains
 
 ```txt
-ARTIFICIAL INTELLIGENCE
-COMPUTER VISION
-DEEP LEARNING
-LLMs
-RAG SYSTEMS
-AGENTIC WORKFLOWS
-RECOMMENDER SYSTEMS
-C++ / DSA
-INTERACTIVE AI PRODUCTS
+▸ ARTIFICIAL INTELLIGENCE
+▸ DEEP LEARNING
+▸ COMPUTER VISION
+▸ LARGE LANGUAGE MODELS
+▸ RAG SYSTEMS
+▸ AGENTIC AI WORKFLOWS
+▸ RECOMMENDATION ENGINES
+▸ C++ / DSA
+▸ INTERACTIVE AI PRODUCTS
+▸ CINEMATIC UI SYSTEMS
 ```
 
 ---
 
-## currently learning
+# currently learning
 
 ```txt
+[ neural roadmap ]
+
 > advanced llm systems
-> qlora optimization
 > scalable rag architectures
-> agent memory systems
 > multimodal ai pipelines
+> qlora optimization
+> agent memory systems
 > deep learning research workflows
 ```
 
 ---
 
-## transmission logs
+# neural metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranitttt64&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranitttt64&theme=algolia&no-frame=true&no-bg=true&margin-w=12" />
 </p>
 
 ---
 
-## neural activity map
+# contribution graph
 
 <p align="center">
   <img src="https://github.com/Pranitttt64/Pranitttt64/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -157,13 +212,13 @@ INTERACTIVE AI PRODUCTS
 ---
 
 ```txt
-[ system message ]
-
-Building intelligent systems inside
-rain-soaked futuristic worlds.
-
-Interface stable.
-Connection secure.
-
-End transmission.
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  Building intelligent systems inside                │
+│  rain-soaked futuristic worlds.                     │
+│                                                     │
+│  Interface stable.                                  │
+│  End transmission.                                  │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
