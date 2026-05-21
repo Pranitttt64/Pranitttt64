@@ -1,171 +1,231 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:003D52,100:00C2FF&height=220&section=header&text=PRANIT%20SAUNDANKAR&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20System%20Builder&descSize=16&descColor=00C2FF&descAlignY=62&animation=fadeIn" />
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00C2FF,100:000000&height=200&section=header&text=PRANIT%20SAUNDANKAR&fontSize=42&fontColor=00C2FF&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Builder&descAlignY=58&descSize=16&descColor=8892A4&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=%3E+BOOTING+NEURAL+SYSTEMS...;%3E+ESTABLISHING+CYBERLINK...;%3E+LOADING+INTELLIGENT+INFRASTRUCTURE...;%3E+SIGNAL+STABLE+%7C+ACCESS+GRANTED" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pranitttt64">
-    <img src="https://img.shields.io/badge/GitHub-Pranitttt64-00C2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pranit-saundankar-68532328b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="https://www.kaggle.com/pranitsaundankar">
-    <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="mailto:psaundankar64@gmail.com">
-    <img src="https://img.shields.io/badge/Email-psaundankar64-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+actually+work.;LLMs+%7C+RAG+%7C+Fine-Tuning+%7C+Computer+Vision;AI%2FDS+Student+%E2%80%94+Nagpur%2C+India+%F0%9F%87%AE%F0%9F%87%B3" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00C2FF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-0D1117?style=for-the-badge&logo=openai&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/ENVIRONMENT-CYBERPUNK-0D1117?style=for-the-badge&logo=ghost&logoColor=00C2FF"/>
 </p>
 
 ---
 
-## `whoami`
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  &nbsp;WHO AM I
+</h1>
 
 ```python
 class PranitSaundankar:
+
     role     = "AI/DS Student & Builder"
-    focus    = ["Deep Learning", "LLMs", "Computer Vision", "Agentic AI"]
-    stack    = ["PyTorch", "HuggingFace", "LangChain", "FastAPI", "Streamlit"]
-    learning = ["Scalable RAG", "QLoRA Optimization", "Multimodal Pipelines", "Agent Memory"]
-    motto    = "Ship things. Break things. Learn obsessively."
+    domains  = ["Deep Learning", "Computer Vision", "LLMs", "RAG", "Agentic AI", "QLoRA Fine-Tuning"]
+    stack    = ["PyTorch", "HuggingFace Transformers", "LangChain", "FastAPI", "Streamlit"]
+    building = ["Multimodal AI Systems", "Fine-Tuned LLMs", "Intelligent Recommendation Engines"]
+    current  = "QLoRA + RAG + Agentic Pipelines"
+    motto    = "Ship. Iterate. Repeat."
 ```
 
-I build end-to-end AI systems — from fine-tuning LLMs on constrained hardware to deploying full-stack intelligent applications. Currently deep in the world of RAG architectures, vision-language models, and agentic workflows.
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Mistral QLoRA Fine-Tuning
-**Fine-Tuning vs Prompt Engineering — with Proof**
-
-Full ablation study comparing fine-tuning and prompt engineering on Mistral-7B. Includes statistical significance testing, loss curves, and benchmark evaluation. Trained on a Kaggle T4 GPU using QLoRA + PEFT.
-
-`QLoRA` `PEFT` `Transformers` `PyTorch` `bitsandbytes`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 CarbonScoreX
-**AI-Powered Carbon Credit Exchange**
-
-Full-stack platform for transparent carbon credit trading. Features AI-driven compliance scoring, greenwashing detection, and real-time analytics dashboards.
-
-`React` `JavaScript` `AI Analytics` `FastAPI` `FullStack`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Neural Style Transfer App
-**Artistic Image Transformation at Scale**
-
-Web app that applies neural style transfer to arbitrary images using a VGG-based PyTorch model. Real-time progress, multiple style presets, downloadable results.
-
-`PyTorch` `VGG19` `Computer Vision` `Streamlit` `Deep Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Book Recommender AI
-**Personalized Recommendations via Autoencoders**
-
-Hybrid recommendation engine using Keras Autoencoders + collaborative filtering. Learns latent user preferences and surfaces books with intelligent, explainable ranking.
-
-`TensorFlow` `Keras` `Recommender Systems` `Streamlit` `Pandas`
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-<details open>
-<summary><b>🤖 AI / ML / DL</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00C2FF)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=00C2FF)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-
-`Transformers` `QLoRA` `PEFT` `RAG` `BitsAndBytes` `FAISS` `Sentence-Transformers`
-
-</details>
-
-<details>
-<summary><b>🛠 Dev / Infrastructure</b></summary>
-<br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-
-</details>
-
-<details>
-<summary><b>💬 Languages</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00C2FF)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-</details>
-
----
-
-## GitHub Analytics
-
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=8892A4&ring_color=00C2FF&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=8892A4&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranitttt64&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF&sideLabels=8892A4&dates=8892A4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranitttt64&theme=react-dark&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" />
+  <b>AI • ML • DL • COMPUTER VISION • LLMs • RAG • AGENTIC AI</b>
 </p>
 
 ---
 
-## Currently Exploring
+<h1 align="center">⚡ SYSTEM STATUS</h1>
 
-```
-┌─────────────────────────────────────────────────────┐
-│  ▸ Advanced RAG — reranking, hybrid search, evals   │
-│  ▸ QLoRA optimization for low-resource fine-tuning  │
-│  ▸ Multimodal AI — vision-language architectures    │
-│  ▸ Agentic systems — memory, planning, tool-use     │
-│  ▸ Deep Learning research workflows & benchmarking  │
-└─────────────────────────────────────────────────────┘
+```yaml
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  STATUS     : ██████████ ONLINE
+  SIGNAL     : ██████████ STRONG
+  UPTIME     : STABLE
+
+  ACTIVE OPERATIONS:
+    ├── Multimodal AI & Vision-Language Systems
+    ├── QLoRA Fine-Tuning Pipelines
+    ├── Scalable RAG Architectures
+    ├── Agentic AI Workflows & Memory Systems
+    ├── Personalized Recommendation Engines
+    └── Interactive AI Interfaces
+
+  ENVIRONMENT: RAIN-SOAKED MEGACITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## Contribution Graph
+<h1 align="center">🚀 FEATURED PROJECTS</h1>
+
+---
+
+<h2 align="center">◈ Mistral QLoRA Fine-Tuning</h2>
+
+<p align="center">
+  <i>Fine-Tuning vs Prompt Engineering on Mistral-7B — with full ablation studies,<br>statistical significance testing, and loss curve analysis. Trained on a Kaggle T4 GPU.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PEFT-0D1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/PyTorch-00C2FF?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle_T4-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
+  <img src="https://img.shields.io/badge/bitsandbytes-0D1117?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br>
+
+<h2 align="center">◈ CarbonScoreX</h2>
+
+<p align="center">
+  <i>AI-powered Carbon Credit Exchange platform with transparent trading,<br>smart compliance scoring, and real-time greenwashing detection.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-00C2FF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/AI%20Analytics-00C2FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FullStack-0D1117?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br>
+
+<h2 align="center">◈ Neural Style Transfer CV App</h2>
+
+<p align="center">
+  <i>Web application that applies VGG-based neural style transfer to arbitrary images.<br>Real-time progress visualization, multiple style presets, downloadable results.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-00C2FF?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/VGG19-0D1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-00C2FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br>
+
+<h2 align="center">◈ Book Recommender AI System</h2>
+
+<p align="center">
+  <i>Hybrid recommendation engine using Keras Autoencoders + collaborative filtering.<br>Learns latent user preferences and surfaces books with explainable ranking.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-00C2FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=D00000"/>
+  <img src="https://img.shields.io/badge/Autoencoders-0D1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recommender%20Systems-00C2FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+</p>
+
+---
+
+<h1 align="center">🧠 TECH STACK</h1>
+
+<h3 align="center">MACHINE LEARNING / AI</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/Transformers-0D1117?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PEFT-0D1117?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-00C2FF?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bitsandbytes-00C2FF?style=flat-square&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">DEVELOPMENT / INFRASTRUCTURE</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,mongodb,mysql,git,linux,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/Kaggle-0D1117?style=flat-square&logo=kaggle&logoColor=20BEFF"/>
+</p>
+
+<br>
+
+<h3 align="center">LANGUAGES</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+---
+
+<h1 align="center">📊 GITHUB ANALYTICS</h1>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&count_private=true&ring_color=00C2FF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pranitttt64&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF&sideLabels=C9D1D9&dates=C9D1D9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranitttt64&theme=react-dark&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=003D52&hide_border=true" />
+</p>
+
+---
+
+<h1 align="center">🌐 ACTIVE DOMAINS</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0D1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-00C2FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COMPUTER%20VISION-0D1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-00C2FF?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG%20SYSTEMS-0D1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AGENTIC%20WORKFLOWS-00C2FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20INFRASTRUCTURE-0D1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QLORA%20FINE--TUNING-00C2FF?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+<h1 align="center">📡 CURRENTLY LEARNING</h1>
+
+```txt
+> Advanced LLM Systems & Evaluation Frameworks
+> Scalable RAG Architectures — Hybrid Search & Reranking
+> QLoRA Optimization for Low-Resource Fine-Tuning
+> Multimodal AI Pipelines — Vision-Language Models
+> Agent Memory Systems & Long-Horizon Planning
+> Deep Learning Research Workflows & Benchmarking
+```
+
+---
+
+<h1 align="center">🐍 CONTRIBUTION GRAPH</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranitttt64/Pranitttt64/output/github-contribution-grid-snake-dark.svg" />
@@ -173,16 +233,39 @@ Hybrid recommendation engine using Keras Autoencoders + collaborative filtering.
 
 ---
 
+<h1 align="center">🔗 NETWORKS</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranitttt64&label=Profile+Views&color=00C2FF&style=flat-square" />
+  <a href="https://github.com/Pranitttt64">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pranit-saundankar-68532328b/">
+    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/pranitsaundankar">
+    <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
+  </a>
+  <a href="mailto:psaundankar64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranitttt64&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Pranitttt64?label=Followers&color=00C2FF&style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/github/followers/Pranitttt64?label=FOLLOWERS&color=0D1117&style=for-the-badge&logo=github&logoColor=00C2FF"/>
 </p>
 
-<p align="center">
-  <sub><i>"The machines are getting smarter. I'm helping."</i></sub>
-</p>
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00C2FF,100:000000&height=100&section=footer" />
+  <i>"Building intelligent systems inside rain-soaked futuristic worlds."</i>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,60:003D52,100:0D0D0D&height=120&section=footer" />
+</div>
