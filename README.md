@@ -19,7 +19,7 @@
 <h1 align="center">PRANIT SAUNDANKAR</h1>
 
 <p align="center">
-  <b>AI • ML • DL • COMPUTER VISION • LLM • RAGs • Agentic AI</b>
+  <b>AI • MACHINE LEARNING • COMPUTER VISION • LLM SYSTEMS • AGENTIC AI</b>
 </p>
 
 <br>
@@ -41,7 +41,7 @@ Current Focus:
 
 ---
 
-# SYSTEM STATUS
+<h1 align="center">SYSTEM STATUS</h1>
 
 ```yaml
 STATUS: ONLINE
@@ -61,9 +61,9 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ---
 
-# FEATURED PROJECTS
+<h1 align="center">FEATURED PROJECTS</h1>
 
-## Mistral QLoRA Fine-Tuning
+<h2 align="center">Mistral QLoRA Fine-Tuning</h2>
 
 > Fine-tuning vs Prompt Engineering on Mistral-7B with full ablation studies and statistical significance testing using QLoRA on a Kaggle T4 GPU.
 
@@ -77,7 +77,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 <br>
 
-## CarbonScoreX
+<h2 align="center">CarbonScoreX</h2>
 
 > AI-powered Carbon Credit Exchange platform focused on transparent trading, smart compliance scoring, and greenwashing detection.
 
@@ -90,7 +90,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 <br>
 
-## Neural Style Transfer CV App
+<h2 align="center">Neural Style Transfer CV App</h2>
 
 > Neural Style Transfer web application built with PyTorch + Streamlit for transforming images into stylized artwork.
 
@@ -103,7 +103,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 <br>
 
-## Book Recommender AI System
+<h2 align="center">Book Recommender AI System</h2>
 
 > Personalized recommendation engine powered by Keras Autoencoders with collaborative filtering and intelligent recommendation pipelines.
 
@@ -116,41 +116,50 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ---
 
-# TECH STACK
+<h1 align="center">TECH STACK</h1>
 
-## MACHINE LEARNING / AI
+<h3 align="center">MACHINE LEARNING / AI</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Transformers-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/QLoRA-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PEFT-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/QLoRA-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PEFT-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square"/>
 </p>
 
 <br>
 
-## DEVELOPMENT / INFRASTRUCTURE
+<h3 align="center">DEVELOPMENT / INFRASTRUCTURE</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,fastapi,mongodb,mysql,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=00C2FF"/>
 </p>
 
 <br>
 
-## LANGUAGES
+<h3 align="center">LANGUAGES</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=00C2FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=00C2FF"/>
 </p>
 
 ---
 
-# GITHUB ANALYTICS
+<h1 align="center">GITHUB ANALYTICS</h1>
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9" />
@@ -164,7 +173,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ---
 
-# ACTIVE DOMAINS
+<h1 align="center">ACTIVE DOMAINS</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-111111?style=for-the-badge"/>
@@ -181,7 +190,7 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ---
 
-# CURRENTLY LEARNING
+<h1 align="center">CURRENTLY LEARNING</h1>
 
 ```txt
 > Advanced LLM Systems
@@ -194,27 +203,31 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ---
 
-# CONTRIBUTION GRAPH
+<h1 align="center">CONTRIBUTION GRAPH</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Pranitttt64/Pranitttt64/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# NETWORKS
+<h1 align="center">NETWORKS</h1>
 
 <p align="center">
   <a href="https://github.com/Pranitttt64">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pranit-saundankar-68532328b/)">
+  <a href="https://www.linkedin.com/in/pranit-saundankar-68532328b/">
     <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="[https://www.kaggle.com/](https://www.kaggle.com/pranitsaundankar)">
+  <a href="https://www.kaggle.com/pranitsaundankar">
     <img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=00C2FF"/>
+  </a>
+
+  <a href="mailto:psaundankar64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -226,10 +239,6 @@ ENVIRONMENT: RAIN-SOAKED MEGACITY
 
 ---
 
-```txt
-Building intelligent systems inside
-rain-soaked futuristic worlds.
-
-END OF TRANSMISSION.
-```
-
+<p align="center">
+  <i>"Building intelligent systems inside rain-soaked futuristic worlds."</i>
+</p>
