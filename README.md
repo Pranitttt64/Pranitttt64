@@ -2,8 +2,6 @@
   <img src="assets/2825810.gif" width="100%" />
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=%3E+BOOTING+NEURAL+SYSTEMS...;%3E+ESTABLISHING+CYBERLINK...;%3E+LOADING+INTELLIGENT+INFRASTRUCTURE...;%3E+SIGNAL+STABLE+%7C+ACCESS+GRANTED" />
 </p>
