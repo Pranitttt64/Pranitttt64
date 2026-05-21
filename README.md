@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/2825810.gif" width="100%" />
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:003D52,100:00C2FF&height=220&section=header&text=PRANIT%20SAUNDANKAR&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20System%20Builder&descSize=16&descColor=00C2FF&descAlignY=62&animation=fadeIn" />
 </div>
@@ -180,16 +184,16 @@ class PranitSaundankar:
 <h1 align="center">📊 GITHUB ANALYTICS</h1>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&count_private=true&ring_color=00C2FF" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&count_private=true&ring_color=00C2FF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C2FF&text_color=C9D1D9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranitttt64&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF&sideLabels=C9D1D9&dates=C9D1D9" />
+  <img src="https://streak-stats.demolab.com?user=Pranitttt64&theme=tokyonight&hide_border=true&background=00000000&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF&sideLabels=C9D1D9&dates=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranitttt64&theme=react-dark&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=003D52&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranitttt64&bg_color=00000000&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=00C2FF&hide_border=true&theme=react-dark" />
 </p>
 
 ---
