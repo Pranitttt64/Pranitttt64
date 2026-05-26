@@ -228,14 +228,6 @@ class PranitSaundankar:
 
 ---
 
-<h1 align="center">TROPHIES</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranitttt64&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4"/>
-</p>
-
----
-
 <h1 align="center">NETWORKS</h1>
 
 <p align="center">
