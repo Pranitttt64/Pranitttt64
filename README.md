@@ -12,12 +12,16 @@
   <img src="https://img.shields.io/badge/ENVIRONMENT-CYBERPUNK-0D1117?style=for-the-badge&logo=ghost&logoColor=00C2FF"/>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
   &nbsp;WHO AM I
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=400&lines=AI+Engineer+%7C+Deep+Learning;Agentic+Systems+%7C+LLMs" />
+</p>
 
 ```python
 class PranitSaundankar:
@@ -36,7 +40,7 @@ class PranitSaundankar:
   <b>AI • ML • DL • COMPUTER VISION • LLMs • RAG • AGENTIC AI</b>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
 <h1 align="center">SYSTEM STATUS</h1>
 
@@ -58,11 +62,11 @@ class PranitSaundankar:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
 <h1 align="center">FEATURED PROJECTS</h1>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
 <h2 align="center">◈ Mistral QLoRA Fine-Tuning</h2>
 
@@ -127,7 +131,7 @@ class PranitSaundankar:
   <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
 <h1 align="center">TECH STACK</h1>
 
@@ -173,24 +177,41 @@ class PranitSaundankar:
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
-<h1 align="center">GITHUB ANALYTICS</h1>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&count_private=true&ring_color=00C2FF" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C2FF&text_color=C9D1D9&langs_count=8" />
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28"/>
+  &nbsp;GITHUB ANALYTICS & TROPHIES
+</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranitttt64&theme=tokyonight&hide_border=true&background=00000000&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF&sideLabels=C9D1D9&dates=C9D1D9" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pranitttt64&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&title-text-color=00C2FF" />
+  </a>
 </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pranitttt64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&count_private=true&ring_color=00C2FF" />
+      </td>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitttt64&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C2FF&text_color=C9D1D9&langs_count=8" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://streak-stats.demolab.com?user=Pranitttt64&theme=tokyonight&hide_border=true&background=00000000&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF&sideLabels=C9D1D9&dates=C9D1D9" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranitttt64&bg_color=00000000&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=00C2FF&hide_border=true&theme=react-dark" />
 </p>
-
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
 <h1 align="center">ACTIVE DOMAINS</h1>
 
@@ -208,7 +229,7 @@ class PranitSaundankar:
   <img src="https://img.shields.io/badge/QLORA%20FINE--TUNING-00C2FF?style=for-the-badge&logoColor=white"/>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
 <h1 align="center">📡 CURRENTLY LEARNING</h1>
 
@@ -221,7 +242,7 @@ class PranitSaundankar:
 > Deep Learning Research Workflows & Benchmarking
 ```
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
 <h1 align="center">CONTRIBUTION GRAPH</h1>
 
@@ -229,31 +250,29 @@ class PranitSaundankar:
   <img src="https://raw.githubusercontent.com/Pranitttt64/Pranitttt64/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
-<h1 align="center">NETWORKS</h1>
+<h1 align="center">INCOMING TRANSMISSION</h1>
 
 <p align="center">
-  <a href="https://github.com/Pranitttt64">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pranit-saundankar-68532328b/">
-    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/pranitsaundankar">
-    <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
-  </a>
-  <a href="mailto:psaundankar64@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&bg_color=00000000&quote_color=00C2FF&author_color=C9D1D9" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+
+<h1 align="center">NETWORKS & COMMS</h1>
+
+<p align="center">
+  <a href="https://github.com/Pranitttt64"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C2FF"/></a>
+  <a href="https://www.linkedin.com/in/pranit-saundankar-68532328b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C2FF"/></a>
+  <a href="https://www.kaggle.com/pranitsaundankar"><img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00C2FF"/></a>
+  <a href="mailto:psaundankar64@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C2FF"/></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranitttt64&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Pranitttt64?label=FOLLOWERS&color=0D1117&style=for-the-badge&logo=github&logoColor=00C2FF"/>
+  <a href="https://github.com/Pranitttt64?tab=followers"><img src="https://img.shields.io/github/followers/Pranitttt64?label=FOLLOWERS&color=0D1117&style=for-the-badge&logo=github&logoColor=00C2FF"/></a>
 </p>
 
 <br>
